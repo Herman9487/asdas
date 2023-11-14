@@ -1,0 +1,11 @@
+Model Information:
+* title:	1964 - Abarth 595SS  (Rigged)  | Mid-Poly
+* source:	https://sketchfab.com/3d-models/1964-abarth-595ss-rigged-mid-poly-2dc606b906bb43a4b1a50330aa96ee78
+* author:	Mahan Rasouli (https://sketchfab.com/Mahan-Rasouli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1964 - Abarth 595SS  (Rigged)  | Mid-Poly" (https://sketchfab.com/3d-models/1964-abarth-595ss-rigged-mid-poly-2dc606b906bb43a4b1a50330aa96ee78) by Mahan Rasouli (https://sketchfab.com/Mahan-Rasouli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
